@@ -3,7 +3,7 @@ let accountEmail = "sumair@gmail.com"
 var accountPassword = "12345"
 accountCity = "Faisalabad" // also used to declear variable but not prefer
 
-let accountState;
+let accountState; // agar value assign na kry to undefined output dain ga
 
 // const details
 // jb hum variable as a const create kerty hai
